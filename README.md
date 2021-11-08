@@ -10,3 +10,7 @@ url of published page is
 
 https://parisca99.github.io/Online-Optimization/
 
+url of github source is
+
+https://github.com/Parisca99/Online-Optimization
+
